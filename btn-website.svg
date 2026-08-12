@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 52" width="232" height="52" role="img" aria-label="Visit my website">
+  <rect x="2" y="2" width="228" height="48" rx="24" fill="#d1685c"/>
+  <rect x="2" y="2" width="228" height="48" rx="24" fill="none" stroke="#b7554a" stroke-width="1.5"/>
+  <circle cx="34" cy="26" r="12" fill="#fffaf1"/>
+  <circle cx="34" cy="26" r="6" fill="#d1685c"/>
+  <circle cx="31.5" cy="23.5" r="2" fill="#f7bdb5"/>
+  <text x="130" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#fffaf1">visit my website</text>
+</svg>

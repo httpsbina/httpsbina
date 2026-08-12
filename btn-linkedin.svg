@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52" role="img" aria-label="LinkedIn">
+  <rect x="2" y="2" width="196" height="48" rx="24" fill="#6b9ec4"/>
+  <rect x="2" y="2" width="196" height="48" rx="24" fill="none" stroke="#57869f" stroke-width="1.5"/>
+  <rect x="22" y="14" width="24" height="24" rx="5" fill="#fffaf1"/>
+  <circle cx="28.5" cy="21" r="2.4" fill="#6b9ec4"/>
+  <rect x="26.5" y="25" width="4" height="9" fill="#6b9ec4"/>
+  <path d="M34 34v-5.4a2.6 2.6 0 015.2 0V34h-2.6v-4.6a0.6 0.6 0 00-1.2 0V34z" fill="#6b9ec4"/>
+  <text x="118" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#fffaf1">let's connect</text>
+</svg>

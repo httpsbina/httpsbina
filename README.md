@@ -12,7 +12,7 @@
 
 ---
 
-### 📌 pinned
+### pinned
 
 **[gerrymander detector](https://github.com/httpsbina/gerrymander-detector)** · [live demo](https://httpsbina.github.io/gerrymander-detector/index.html)
 Generates 500+ valid congressional maps with Markov chain Monte Carlo, then asks where the enacted one falls in that distribution. Texas's 2025 map landed at the 0th percentile. Python, GerryChain, geopandas.
@@ -25,7 +25,7 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 
 ---
 
-### 🌱 what's next
+### what's next
 
 - **common senses @ BARI** — heat and environmental sensing across Boston neighborhoods, with the city's Office of Emerging Technology. Starts September.
 - **administrative burden scorer** — NLP that reads benefits applications and scores how hard they are to get through.
@@ -33,7 +33,7 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 
 ---
 
-### 🧰 toolkit
+### my toolkit
 
 `python` · `pandas` · `geopandas` · `gerrychain` · `sql` · `matlab`
 

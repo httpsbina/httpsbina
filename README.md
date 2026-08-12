@@ -28,7 +28,6 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 ### what's next
 
 - **common senses @ BARI** — heat and environmental sensing across Boston neighborhoods, with the city's Office of Emerging Technology. Starts September.
-- **administrative burden scorer** — NLP that reads benefits applications and scores how hard they are to get through.
 - **more states** — extending the redistricting ensemble past Texas, with a public dashboard.
 
 ---
@@ -39,6 +38,6 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 
 ---
 
-### 🎞️ off the clock
+### off the clock
 
-Film on a Kodak PIXPRO, mostly warm and slightly underexposed. Vinyl. Too much coffee in the North End. Thrifting when I should be studying.
+Film on a Kodak PIXPRO, mostly warm and slightly underexposed. Vinyl. Too much coffee in the North End. Thrifting.

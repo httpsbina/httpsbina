@@ -20,7 +20,7 @@ Generates 500+ valid congressional maps with Markov chain Monte Carlo, then asks
 **[binabak](https://github.com/httpsbina/binabak)** · [live site](https://httpsbina.github.io/binabak/)
 My portfolio, built as one self-contained HTML file. There's a camera on the landing page. Press the shutter.
 
-**eu labor market forecasting**
+**eu labor market forecasting** · [live site](https://tbcacademics.neu-in-leuven.cloud/)
 Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sectors, rebuilt with a temporal train/test split after catching look-ahead bias.
 
 ---

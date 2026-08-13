@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/binafsha-bakhramova/"><img src="btn-linkedin.svg" alt="LinkedIn" height="46"></a>
   &nbsp;
-  <a <a href="https://github.com/httpsbina/httpsbina/blob/main/Binafsha_Bakhramova_Resume_PEAK.pdf" height="46"></a>
+ <a href="https://github.com/httpsbina/httpsbina/blob/main/Binafsha_Bakhramova_Resume_PEAK.pdf"><img src="btn-resume.svg" alt="Resume" height="46"></a>
 </p>
 
 ---

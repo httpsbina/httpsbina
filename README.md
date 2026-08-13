@@ -27,8 +27,8 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 
 ### what's next
 
-- **common senses @ BARI** — heat and environmental sensing across Boston neighborhoods, with the city's Office of Emerging Technology. Starts September.
-- **more states** — extending the redistricting ensemble past Texas, with a public dashboard.
+- **common senses @ BARI** : heat and environmental sensing across Boston neighborhoods, with the city's Office of Emerging Technology. Starts September.
+- **more states** : extending the redistricting ensemble past Texas, with a public dashboard.
 
 ---
 

@@ -40,4 +40,4 @@ Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sector
 
 ### off the clock
 
-Film on a Kodak PIXPRO, mostly warm and slightly underexposed. Vinyl. Too much coffee in the North End. Thrifting.
+Film on a Kodak PIXPRO. Vinyl. Too much coffee in the North End. Thrifting.

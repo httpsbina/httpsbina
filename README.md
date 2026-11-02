@@ -1,43 +1,19 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="bina — business analytics + political science @ northeastern">
-</p>
+<img src="header.svg" width="100%" alt="bina. business analytics + political science @ northeastern. i ask maps questions.">
 
 <p align="center">
-  <a href="https://httpsbina.github.io/binabak/"><img src="btn-website.svg" alt="Visit my website" height="46"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/binafsha-bakhramova/"><img src="btn-linkedin.svg" alt="LinkedIn" height="46"></a>
-  &nbsp;
- <a href="https://github.com/httpsbina/httpsbina/blob/main/Binafsha_Bakhramova_Resume_PEAK.pdf"><img src="btn-resume.svg" alt="Resume" height="46"></a>
+<a href="https://httpsbina.github.io/binabak/"><img src="link-website.svg" height="34" alt="website"></a>&emsp;&emsp;
+<a href="https://www.linkedin.com/in/binafsha-bakhramova/"><img src="link-linkedin.svg" height="34" alt="linkedin"></a>&emsp;&emsp;
+<a href="https://github.com/httpsbina/httpsbina/blob/main/Binafsha_Bakhramova_Resume_PEAK.pdf"><img src="link-resume.svg" height="34" alt="resume"></a>
 </p>
 
----
+<br>
 
-### pinned
+<p align="center">
+<a href="https://httpsbina.github.io/gerrymander-detector/index.html"><img src="card-gerrymander.svg" width="32%" alt="gerrymander detector: 500+ simulated texas maps; the enacted 2025 map came in at the 0th percentile"></a>
+<a href="https://httpsbina.github.io/binabak/"><img src="card-binabak.svg" width="32%" alt="binabak: my portfolio, built as one html file"></a>
+<a href="https://tbcacademics.neu-in-leuven.cloud/"><img src="card-eu-labor.svg" width="32%" alt="eu labor forecasting: employment models across 27 countries and 8 sectors"></a>
+</p>
 
-**[gerrymander detector](https://github.com/httpsbina/gerrymander-detector)** · [live demo](https://httpsbina.github.io/gerrymander-detector/index.html)
-Generates 500+ valid congressional maps with Markov chain Monte Carlo, then asks where the enacted one falls in that distribution. Texas's 2025 map landed at the 0th percentile. Python, GerryChain, geopandas.
+<br>
 
-**[binabak](https://github.com/httpsbina/binabak)** · [live site](https://httpsbina.github.io/binabak/)
-My portfolio, built as one self-contained HTML file. There's a camera on the landing page. Press the shutter.
-
-**eu labor market forecasting** · [live site](https://tbcacademics.neu-in-leuven.cloud/)
-Employment models on a 2,354-row Eurostat panel across 27 countries and 8 sectors, rebuilt with a temporal train/test split after catching look-ahead bias.
-
----
-
-### what's next
-
-- **common senses @ BARI** : heat and environmental sensing across Boston neighborhoods, with the city's Office of Emerging Technology. Starts September.
-- **more states** : extending the redistricting ensemble past Texas, with a public dashboard.
-
----
-
-### my toolkit
-
-`python` · `pandas` · `geopandas` · `gerrychain` · `sql` · `matlab`
-
----
-
-### off the clock
-
-Film on a Kodak PIXPRO. Vinyl. Too much coffee in the North End. Thrifting.
+<img src="footer.svg" width="100%" alt="now: heat sensing in boston with BARI and the city, building at forge. toolkit: python, pandas, geopandas, gerrychain, sql, matlab. off the clock: film, vinyl, north end coffee, thrifting.">
